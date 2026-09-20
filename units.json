@@ -10,7 +10,7 @@
     "tokens": {
       "WIFI_NETWORK": "",
       "WIFI_PASSWORD": "",
-      "PARKING_RATE": "$40",
+      "PARKING_RATE": "$45",
       "ADDRESS_BLOCK": "The Village at Breckenridge, Shavano Building<br>535 South Park Ave, Unit 2603<br>Breckenridge, CO 80424",
       "AIRBNB_URL": "https://airbnb.com/h/vab2br2ba",
       "VRBO_URL": "",
@@ -29,7 +29,7 @@
     "tokens": {
       "WIFI_NETWORK": "",
       "WIFI_PASSWORD": "",
-      "PARKING_RATE": "$40",
+      "PARKING_RATE": "$45",
       "ADDRESS_BLOCK": "The Village at Breckenridge, Unit 4604<br>Breckenridge, CO 80424",
       "AIRBNB_URL": "",
       "VRBO_URL": "",
@@ -48,7 +48,7 @@
     "tokens": {
       "WIFI_NETWORK": "",
       "WIFI_PASSWORD": "",
-      "PARKING_RATE": "$40",
+      "PARKING_RATE": "$45",
       "ADDRESS_BLOCK": "The Village at Breckenridge, Unit 4325<br>Breckenridge, CO 80424",
       "AIRBNB_URL": "",
       "VRBO_URL": "",
@@ -67,7 +67,7 @@
     "tokens": {
       "WIFI_NETWORK": "",
       "WIFI_PASSWORD": "",
-      "PARKING_RATE": "$40",
+      "PARKING_RATE": "$45",
       "ADDRESS_BLOCK": "The Village at Breckenridge, Unit 4212<br>Breckenridge, CO 80424",
       "AIRBNB_URL": "",
       "VRBO_URL": "",
@@ -161,7 +161,7 @@
           },
           {
             "heading": "Digital Key App",
-            "body": "<p>Room, elevator, health club, parking and any reservations are all accessed through the digital key app — your login details are sent through Airbnb (or your booking platform) the day of check-in. It's worth downloading the app in advance, but wait to log in until your arrival day.</p><ul><li>Bluetooth must be turned on — it's a Bluetooth key.</li><li>Tap the key on your screen so it turns blue, then hold the back of your phone fully against the lock to open it.</li><li>The app's share button lets you give key access to anyone else in your group.</li></ul>"
+            "body": "<p>Room, elevator, health club, parking and any amenity reservations are all accessed through the digital key app — your login details are sent through Airbnb (or your booking platform) the day of check-in. It's worth downloading the app in advance, but wait to log in until your arrival day.</p><ul><li>Bluetooth must be turned on — it's a Bluetooth key.</li><li>Tap the key on your screen so it turns blue, then hold the back of your phone fully against the lock to open it.</li><li>The app's share button lets you give key access to anyone else in your group.</li></ul>"
           },
           {
             "heading": "Getting to Your Unit",
