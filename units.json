@@ -1,0 +1,182 @@
+{
+  "_readme": "One entry per rental, keyed by the value that goes in ?unit=KEY. 'property' controls the hero/header. 'tokens' fill in the {{PLACEHOLDER}} spots inside shared.json — any token left blank shows a friendly 'ask your host' note on the page instead of breaking. 'overrides' is optional: list a category id there only if that whole category needs unit-specific content instead of just a token (e.g. a different building's pool directions) — give it 'title' (optional), 'subtitle' (optional) and 'sections' just like shared.json uses.",
+  "2603": {
+    "property": {
+      "name": "Village at Breckenridge 2603",
+      "subtitle": "Shavano Building • Unit 2603",
+      "heroImage": "images/2603-hero.jpg",
+      "welcome": "Thanks for choosing my cozy mountain condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
+    },
+    "tokens": {
+      "WIFI_NETWORK": "",
+      "WIFI_PASSWORD": "",
+      "PARKING_RATE": "$40",
+      "ADDRESS_BLOCK": "The Village at Breckenridge, Shavano Building<br>535 South Park Ave, Unit 2603<br>Breckenridge, CO 80424",
+      "AIRBNB_URL": "https://airbnb.com/h/vab2br2ba",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "",
+      "CLEANING_FEE": "$110",
+      "PARKING_FEE_NOTE": " + $35/night parking if needed"
+    }
+  },
+  "4604": {
+    "property": {
+      "name": "Village at Breckenridge 4604",
+      "subtitle": "Unit 4604",
+      "heroImage": "images/4604-hero.jpg",
+      "welcome": "Thanks for choosing my cozy mountain condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
+    },
+    "tokens": {
+      "WIFI_NETWORK": "",
+      "WIFI_PASSWORD": "",
+      "PARKING_RATE": "$40",
+      "ADDRESS_BLOCK": "The Village at Breckenridge, Unit 4604<br>Breckenridge, CO 80424",
+      "AIRBNB_URL": "",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "https://breckenridge.staydirectly.com",
+      "CLEANING_FEE": "$110",
+      "PARKING_FEE_NOTE": " + $35/night parking if needed"
+    }
+  },
+  "4325": {
+    "property": {
+      "name": "Village at Breckenridge 4325",
+      "subtitle": "Unit 4325",
+      "heroImage": "images/4325-hero.jpg",
+      "welcome": "Thanks for choosing my cozy mountain condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
+    },
+    "tokens": {
+      "WIFI_NETWORK": "",
+      "WIFI_PASSWORD": "",
+      "PARKING_RATE": "$40",
+      "ADDRESS_BLOCK": "The Village at Breckenridge, Unit 4325<br>Breckenridge, CO 80424",
+      "AIRBNB_URL": "",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "",
+      "CLEANING_FEE": "$110",
+      "PARKING_FEE_NOTE": " + $35/night parking if needed"
+    }
+  },
+  "4212": {
+    "property": {
+      "name": "Village at Breckenridge 4212",
+      "subtitle": "Unit 4212",
+      "heroImage": "images/4212-hero.jpg",
+      "welcome": "Thanks for choosing my cozy mountain condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
+    },
+    "tokens": {
+      "WIFI_NETWORK": "",
+      "WIFI_PASSWORD": "",
+      "PARKING_RATE": "$40",
+      "ADDRESS_BLOCK": "The Village at Breckenridge, Unit 4212<br>Breckenridge, CO 80424",
+      "AIRBNB_URL": "",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "",
+      "CLEANING_FEE": "$110",
+      "PARKING_FEE_NOTE": " + $35/night parking if needed"
+    }
+  },
+  "steiermark-108": {
+    "property": {
+      "name": "Der Steiermark 108",
+      "subtitle": "Unit 108",
+      "heroImage": "images/steiermark-108-hero.jpg",
+      "welcome": "Thanks for choosing my condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
+    },
+    "tokens": {
+      "WIFI_NETWORK": "",
+      "WIFI_PASSWORD": "",
+      "ADDRESS_BLOCK": "Der Steiermark, Unit 108<br>Breckenridge, CO 80424",
+      "AIRBNB_URL": "",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "https://breckenridge.staydirectly.com",
+      "CLEANING_FEE": "$110",
+      "PARKING_FEE_NOTE": " (parking is included free of charge)"
+    },
+    "overrides": {
+      "parking": {
+        "subtitle": "Free parking for this unit",
+        "sections": [
+          {
+            "heading": "Parking",
+            "body": "<p>Parking is included free of charge with this unit. TODO: add exactly where to park and how (assigned spot, garage access code, guest lot, etc.).</p>"
+          }
+        ]
+      },
+      "building-amenities": {
+        "subtitle": "TODO: confirm what this building offers",
+        "sections": [
+          {
+            "heading": "TODO",
+            "body": "<p>Der Steiermark's amenities and directions differ from the Village at Breckenridge — replace this section with the pool/hot tub/gym info and walking directions for this building.</p>"
+          }
+        ]
+      }
+    }
+  },
+  "template-copy-me": {
+    "_note": "Duplicate this whole block, rename the key to whatever you'll put after ?unit=, and fill in every value below. Delete this note field when you do.",
+    "property": {
+      "name": "Property Name & Unit Number",
+      "subtitle": "Building • Unit ####",
+      "heroImage": "images/UNITKEY-hero.jpg",
+      "welcome": "Your welcome message for this unit."
+    },
+    "tokens": {
+      "WIFI_NETWORK": "",
+      "WIFI_PASSWORD": "",
+      "PARKING_RATE": "$0",
+      "ADDRESS_BLOCK": "Street address, unit, city, state, zip",
+      "AIRBNB_URL": "",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "",
+      "CLEANING_FEE": "$0",
+      "PARKING_FEE_NOTE": ""
+    }
+  },
+  "4415": {
+    "property": {
+      "name": "Village at Breckenridge 4415",
+      "subtitle": "Peak 9 Inn • Unit 4415",
+      "heroImage": "images/4415-hero.jpg",
+      "welcome": "Welcome! I'm excited to host you and hope you enjoy Breckenridge! If for any reason your stay isn't 5 stars or you need help, please reach out to me on Airbnb, or by text/WhatsApp. Make sure to check out this guide for recommendations!"
+    },
+    "tokens": {
+      "WIFI_NETWORK": "peak9inn4415",
+      "WIFI_PASSWORD": "peak9inn4415",
+      "PARKING_RATE": "$45",
+      "ADDRESS_BLOCK": "The Village at Breckenridge, Peak 9 Inn<br>535 S Park Ave, Unit 4415<br>Breckenridge, CO 80424",
+      "AIRBNB_URL": "",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "",
+      "CLEANING_FEE": "$110",
+      "PARKING_FEE_NOTE": " + parking if needed"
+    },
+    "overrides": {
+      "checkin": {
+        "sections": [
+          {
+            "heading": "Times",
+            "body": "<p><strong>Check-in:</strong> 4:00 PM &nbsp;•&nbsp; <strong>Check-out:</strong> 10:00 AM</p><p>Room access (front door, garage and elevator) is entirely via the digital room key app — details are in your check-in message. Early/late garage access is sometimes available if the current guest isn't using the spot — just ask. The Health Club is always accessible 8am–5pm regardless.</p>"
+          },
+          {
+            "heading": "Digital Key App",
+            "body": "<p>Room, elevator, health club, parking and any reservations are all accessed through the digital key app — your login details are sent through Airbnb (or your booking platform) the day of check-in. It's worth downloading the app in advance, but wait to log in until your arrival day.</p><ul><li>Bluetooth must be turned on — it's a Bluetooth key.</li><li>Tap the key on your screen so it turns blue, then hold the back of your phone fully against the lock to open it.</li><li>The app's share button lets you give key access to anyone else in your group.</li></ul>"
+          },
+          {
+            "heading": "Getting to Your Unit",
+            "body": "<p>Look for the large building with the clock tower and an archway labeled “The Village.” Pull into the circular drive and take your second right into the garage. Drive toward the stop sign / pay-to-park machine, turn left, and tap your digital parking pass on the sensor to open the gate. The Peak 9 Inn (Green Lot) is closest to the elevator, but you can park in any section once you're inside the garage. If it's full, any handicap spot works too. Luggage carts are in the lobby.</p><p>From the lobby, take the elevator (tap your key on the sensor), choose the 4th floor, then turn right to Unit 4415.</p>"
+          },
+          {
+            "heading": "Before You Leave",
+            "body": "<p>If you're able, please:</p><ul><li>Load and start the dishwasher</li><li>Take the garbage out</li><li>Turn off the lights and heat</li><li>Text your host that you've departed</li></ul>"
+          },
+          {
+            "heading": "Address",
+            "body": "<p>{{ADDRESS_BLOCK}}</p>"
+          }
+        ]
+      }
+    }
+  }
+}

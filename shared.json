@@ -1,0 +1,564 @@
+{
+  "categories": [
+    {
+      "id": "checkin",
+      "title": "Check-in / Check-out",
+      "subtitle": "Arrival and departure details",
+      "icon": "door",
+      "sections": [
+        {
+          "heading": "Times",
+          "body": "<p><strong>Check-in:</strong> 4:00 PM &nbsp;•&nbsp; <strong>Check-out:</strong> 10:00 AM</p><p>Room access (front door, garage and elevator) is entirely via the digital room key app — details are in your check-in message.</p>"
+        },
+        {
+          "heading": "Digital Key App",
+          "body": "<p>Room, elevator, health club, parking and any reservations are all accessed through the digital key app &mdash; your login details are sent through Airbnb (or your booking platform) the day of check-in. It's worth downloading the app in advance, but wait to log in until your arrival day.</p><ul><li>Bluetooth must be turned on &mdash; it's a Bluetooth key.</li><li>Tap the key on your screen so it turns blue, then hold the back of your phone fully against the lock to open it.</li><li>The app's share button lets you give key access to anyone else in your group.</li></ul>"
+        },
+        {
+          "heading": "Before You Leave",
+          "body": "<p>If you're able, please:</p><ul><li>Load and start the dishwasher</li><li>Take the garbage out</li><li>Turn off the lights and heat</li><li>Text your host that you've departed</li></ul>"
+        },
+        {
+          "heading": "Address",
+          "body": "<p>{{ADDRESS_BLOCK}}</p>"
+        }
+      ]
+    },
+    {
+      "id": "wifi",
+      "title": "WiFi &amp; TV",
+      "subtitle": "Network, streaming &amp; the remote",
+      "icon": "wifi",
+      "sections": [
+        {
+          "heading": "Getting Connected",
+          "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p>"
+        },
+        {
+          "heading": "Smart TV &amp; Streaming",
+          "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p>"
+        },
+        {
+          "heading": "Google Home Smart Speaker",
+          "body": "<p>There's a Google Home speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Hey Google” for music, alarms, weather and other info — no need to unplug it.</p>"
+        }
+      ]
+    },
+    {
+      "id": "parking",
+      "title": "Parking &amp; Garage",
+      "subtitle": "Reserved spots, alternates &amp; EV charging",
+      "icon": "car",
+      "sections": [
+        {
+          "heading": "Reserved Parking",
+          "body": "<p><strong>{{PARKING_RATE}}/night</strong>, year-round, starting at check-in and ending at check-out. The garage usually fills each night and needs to be booked in advance. <strong>Garage entry height: 7 ft 6 in.</strong></p><p>If you’re skiing on your check-out day, you can move your car to the daytime paid skier parking in the F-lot (across from the building) or the free daytime skier parking at the Ice Rink lot.</p>"
+        },
+        {
+          "heading": "If the Garage Is Full",
+          "body": "<p>The front lot has 30 minutes free — use the pay machine and add your license plate. Great for unloading when you arrive.</p><p><strong>Ice Rink Parking Lot</strong> (189 Boreas Pass Rd) — a small lot 5 blocks away that does fill up. $20 weekdays / $35 weekends.</p>"
+        },
+        {
+          "heading": "Electric Vehicle Charging",
+          "body": "<p>The building has multiple Level 2 chargers throughout the garage — download the <strong>Blink</strong> app to access and pay. Town-wide chargers are also accessible via free public transit and are being added regularly: <a href=\"https://www.townofbreckenridge.com/how-do-i/locate/electric-vehicle-chargers\" target=\"_blank\" rel=\"noopener\">townofbreckenridge.com &rarr; EV chargers</a></p>"
+        },
+        {
+          "heading": "Town Parking Info",
+          "body": "<p>All parking in Breckenridge is paid parking. See <a href=\"http://www.breckpark.com\" target=\"_blank\" rel=\"noopener\">breckpark.com</a> for full town parking details. Carpooling or shuttles are strongly recommended, especially during ski season and big holidays.</p>"
+        }
+      ]
+    },
+    {
+      "id": "kitchen",
+      "title": "Kitchen &amp; Amenities",
+      "subtitle": "What's provided in the condo",
+      "icon": "utensils",
+      "sections": [
+        {
+          "heading": "Kitchen",
+          "body": "<p>Full kitchen with microwave, oven, stove, refrigerator, dishwasher, crockpot, toaster and coffee machine, plus all the pots, pans and utensils you'll need. Basic spices, oils and condiments are stocked — feel free to leave extra food behind for housekeeping or the community.</p>"
+        },
+        {
+          "heading": "Coffee &amp; Tea",
+          "body": "<p>Drip coffee machine, filters, a coffee grinder and an electric kettle, plus ground coffee, an assortment of teas, powdered creamer, syrups and sugars.</p>"
+        },
+        {
+          "heading": "Bathroom",
+          "body": "<p>Body wash, shampoo and conditioner in a shower dispenser, plus makeup remover wipes and black makeup-removal cloths (please don't use the white towels for makeup — the stains are tough to get out). A hairdryer and body lotion are also provided.</p>"
+        },
+        {
+          "heading": "Heating &amp; Cooling",
+          "body": "<p>There's no A/C in Breckenridge — the unit relies on a baseboard heater (control in the kitchen) plus opening windows and closing blinds to regulate temperature. A ceiling fan, portable fan and hot/cold mist humidifiers are in the closet.</p> <p>Humidifiers live in the closet &mdash; please leave them unassembled on the counter to air dry after your stay.</p>"
+        },
+        {
+          "heading": "Laundry",
+          "body": "<p>Washers and dryers are on your floor, across from the elevator. Detergent is usually kept in the closet or under the sink. Use the <strong>PayRange</strong> app or scan the QR code on the machine.</p>"
+        },
+        {
+          "heading": "Sleeper Sofa",
+          "body": "<p>If your unit has a leather sleeper sofa, please be gentle with it &mdash; it's a genuine leather piece. Don't unzip the pillows, they're meant to stay attached. To open the bed, pull the handle in the center back of the sofa (instructions are also on the table).</p>"
+        }
+      ]
+    },
+    {
+      "id": "building-amenities",
+      "title": "Building Amenities",
+      "subtitle": "Pool, hot tubs, gym, movie &amp; game rooms",
+      "icon": "spa",
+      "sections": [
+        {
+          "heading": "Hot Tubs, Pool, Fitness Center, Sauna &amp; Steam Room",
+          "body": "<p>The health club is at Peak 9 Inn, level 1 (to the right as you exit the elevator). Pool/hot tub hours are 10am–10pm daily; the gym is open 6am–10pm. Hot tubs run around 104°F and the heated pool 84–86°F. Towels are provided at the entrance — please don't bring room towels or take club towels. The game room has a large TV, WiFi, vending machines, and comfy seating and work areas. Please take all your belongings and throw away your trash when you leave.</p>"
+        },
+        {
+          "heading": "Movie Room",
+          "body": "<p>Reserve via the Village at Breckenridge app. Access via the stairs down from the Health Club. Movies for all ages via Xfinity and Disney+; seats up to 15. Please clear your trash before leaving.</p>"
+        },
+        {
+          "heading": "Xbox Gaming Room",
+          "body": "<p>Reserve via the app. Access via the stairs down from the Health Club. Controllers for 4 people. Please clear your trash before leaving.</p>"
+        },
+        {
+          "heading": "Free Ski &amp; Snowboard Valet",
+          "body": "<p>Christy Sports offers a free ski (no poles) / snowboard valet for Village at Breckenridge owners and guests, at their location on the plaza next to the Shavano building (across from the Maggie building). You're welcome to keep skis in the room instead, but Christy's is usually more convenient.</p>"
+        },
+        {
+          "heading": "Luggage Storage",
+          "body": "<p>Ski &amp; luggage lockers are in the garage near the health club door, available 8am–5pm via a reservation in the digital app. Items must be removed by 5pm.</p>"
+        },
+        {
+          "heading": "Lobby Services",
+          "body": "<p>The lobby has a computer with free printing, phone charging, and (during peak season) a small convenience store (credit card only).</p>"
+        },
+        {
+          "heading": "Village at Breckenridge Amenities",
+          "body": "<p>For more information about the <a href=\"https://thevillageatbreckenridge.org\" target=\"_blank\" rel=\"noopener\">Village at Breckenridge</a> and amenities, please visit the web site.</p>"
+        }
+      ]
+    },
+    {
+      "id": "house-rules",
+      "title": "House Rules",
+      "subtitle": "Please read before your stay",
+      "icon": "scroll",
+      "sections": [
+        {
+          "heading": "Key Rules",
+          "body": "<ul><li><strong>No smoking</strong> of any kind, anywhere on the property (100% smoke-free, including vaping) — $500 charge.</li><li><strong>No pets</strong> — per the HOA, pets aren't allowed on the property. $500 charge, and the property manager can ask you to leave without refund.</li><li><strong>Quiet hours</strong> are 10pm–8am per HOA regulation — non-compliance can lead to being asked to leave without refund.</li><li>Check-out is at <strong>10am</strong>; check-in is at <strong>4pm</strong>.</li></ul>"
+        },
+        {
+          "heading": "Amenity Hours",
+          "body": "<p>Per the HOA's official house guidelines:</p><ul><li><strong>Pool &amp; hot tubs:</strong> 10am&ndash;10pm</li><li><strong>Steam room &amp; dry sauna:</strong> 10am&ndash;10pm</li><li><strong>Fitness center:</strong> 7am&ndash;10pm</li><li><strong>Leisure center:</strong> 7am&ndash;10pm</li><li><strong>Front desk:</strong> 6am&ndash;10pm (limited services for non-Vail guests)</li><li><strong>Movie &amp; game rooms:</strong> 8am&ndash;10pm, reservation required via the Village App &mdash; please clean up after use</li></ul>"
+        },
+        {
+          "heading": "Additional Property Guidelines",
+          "body": "<p>A few more rules from the HOA's official house guidelines:</p><ul><li><strong>Occupancy:</strong> Maximum occupancy is the number of persons identified on the business license or permitted by the rental agreement, whichever is less.</li><li><strong>Service animals:</strong> Except for certified service animals, pets are not permitted by rental guests.</li><li><strong>Personal transportation:</strong> Skateboards, scooters, bicycles, eBikes and roller skates may not be ridden anywhere on the property.</li><li><strong>Fireplace safety:</strong> Keep the screen closed while the fireplace is in use. Dispose of ash only in the designated containers in the parking garage.</li><li><strong>Elevators:</strong> Please don't hold the doors open &mdash; it can cause a malfunction.</li><li><strong>Trash:</strong> Use the trash chute on your floor. Large items go to the trash rooms in the parking garage.</li></ul>"
+        },
+        {
+          "heading": "Cancellations &amp; Weather",
+          "body": "<p>Travel insurance is recommended — there's a strict cancellation policy in place, and COVID is not covered by Airbnb's cancellation policy. Refunds aren't given for snow conditions, lack of snow, or not having 4WD if needed — it's your responsibility to rent an appropriate vehicle or take the shuttles, which run regardless of conditions. If I-70 is closed, Highway 285 is the alternate route.</p><p>4WD, snow tires and/or chains are required in winter (I-70 has a Traction Law — see Road Conditions).</p>"
+        },
+        {
+          "heading": "Other",
+          "body": "<p>The housekeeper charges for excessive cleaning or a late check-out. Parking reservations are non-refundable once made. Building parking is $40/night, year-round. This is a home, not a hotel — please treat it with care. Damages, intentional or not, may result in forfeiture of your deposit.</p>"
+        },
+        {
+          "heading": "Avoid Fees",
+          "body": "<ul><li><strong>$50</strong> late check-out fee, if the housekeeper has to wait or come back to clean</li><li><strong>$100</strong> excessive-cleaning fee (rare &mdash; charged by the housekeeper, not us)</li><li><strong>$500</strong> for pets or smoking/vaping in the unit</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "trash",
+      "title": "Trash &amp; Recycling",
+      "subtitle": "Where to take it out",
+      "icon": "recycle",
+      "sections": [
+        {
+          "heading": "Garbage",
+          "body": "<p>The garbage chute is on your floor, behind the elevator. Large items can be left next to the chute rather than forced down it.</p>"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "subtitle": "Numbers worth having on hand",
+      "icon": "phone",
+      "sections": [
+        {
+          "heading": "Your Host",
+          "body": "<p>For anything about your stay, please message your host directly through Airbnb, VRBO, or however you booked — that's the fastest way to reach me.</p>"
+        },
+        {
+          "heading": "Building &amp; Emergency",
+          "body": "<ul><li><strong>Emergency:</strong> 911</li><li><strong>Front desk</strong> (Vail Resorts guests only): 970-453-2000</li></ul><p>Note: there isn't a 24-hour front desk for all guests — check-in/out and cancellation policies are managed by individual rental managers, not the HOA.</p>"
+        },
+        {
+          "heading": "More Info",
+          "body": "<p>Full building FAQs: <a href=\"https://www.thevillageatbreckenridge.org/faq/\" target=\"_blank\" rel=\"noopener\">thevillageatbreckenridge.org/faq</a></p>"
+        },
+        {
+          "heading": "Urgent Care &amp; Hospital",
+          "body": "<ul><li><strong>CommonSpirit Emergency &amp; Urgent Care</strong> &mdash; 555 S Park Ave, on-property on the plaza, open daily</li><li><strong>High Country Healthcare</strong> (Primary &amp; Express) &mdash; 429 N Park Ave, open daily</li><li><strong>St. Anthony Summit Hospital</strong> &mdash; 340 Peak One Dr, Frisco &mdash; the closest hospital</li><li><strong>High Altitude Mobile Physicians</strong> &mdash; Summit County's mobile urgent care</li><li>A <strong>defibrillator</strong> is in the Peak 9 Inn lobby by the entrance, and by the indoor pool in the Health Club</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "getting-here",
+      "title": "Getting to Breckenridge",
+      "subtitle": "Shuttles, rentals &amp; driving",
+      "icon": "shuttle",
+      "sections": [
+        {
+          "heading": "Shuttle vs. Driving",
+          "body": "<p>For winter, I highly recommend a shuttle: rentals are expensive, I-70 has traction laws, snow is common, parking is limited/expensive, and everything in town is walkable with an excellent free bus system. For summer or if you want to explore further out, driving makes more sense.</p>"
+        },
+        {
+          "heading": "Shuttle Options (Ski Season)",
+          "body": "<p>You really don't need a car in winter — dining, shopping, groceries and skiing are all within a few blocks, and there are free town shuttles plus the free Summit Stage to neighboring resorts. Popular airport shuttle companies (pick by price/schedule):</p><ul><li>Epic Mountain Express <em>(EPIC Pass holders get 20% off)</em></li><li>Summit Express</li><li>Peak 1 Express</li><li>Fresh Tracks</li></ul>"
+        },
+        {
+          "heading": "Private Car Options",
+          "body": "<ul><li><strong>West Wing Limousine</strong> — westwinglimo.com, 720-728-9914</li><li><strong>Black Mountain Limo</strong> — <a href=\"https://www.blackmtnlimo.com/\" target=\"_blank\" rel=\"noopener\">blackmtnlimo.com</a> (complimentary 30-min grocery stop)</li><li><strong>007 Airport Limo Services</strong> — <a href=\"https://www.007airportlimodenver.com\" target=\"_blank\" rel=\"noopener\">007airportlimodenver.com</a></li><li><strong>Wild Peaks Limo</strong> — www.wildpeakslimo.com, 833-453-9453</li><li><strong>JH Private Car Services</strong> — www.jhprivatecarservices.com, 303-550-0262</li><li><strong>Ski Lift</strong> — www.skilift.app, 970-333-0918</li></ul>"
+        },
+        {
+          "heading": "Bus from Denver (Weekends, Ski Season)",
+          "body": "<p><strong>SnowStang</strong> runs from Denver Union Station to Downtown Breckenridge on weekends only: <a href=\"https://ridebustang.com/snowstang-mountain-service/schedules/breckenridge-schedule/\" target=\"_blank\" rel=\"noopener\">ridebustang.com/snowstang</a></p>"
+        },
+        {
+          "heading": "Lyft &amp; Uber",
+          "body": "<p>Both are available in town, but service can be slower than you're used to at home — there simply aren't many drivers.</p>"
+        }
+      ]
+    },
+    {
+      "id": "getting-around",
+      "title": "Getting Around Town",
+      "subtitle": "Free buses &amp; walking routes",
+      "icon": "bus",
+      "sections": [
+        {
+          "heading": "To the Lifts &amp; Downtown",
+          "body": "<p><strong>Peak 9 Quicksilver Chair Lift</strong> (on property): outside, take the ramp to the plaza and walk diagonally across — the chairlift is behind the Maggie. Or take the elevator to level 1 (same as the health club), right through the glass door, then left behind the hot tubs — straight to Quicksilver (faster route).</p><p><strong>Peak 7/8 BreckConnect Gondola:</strong> from the lobby, outside to Park Ave, then left along Park Ave, or cross and walk the Blue River Trail, or right to Main Street then left. About 1 mile; free buses also reach the gondola.</p><p><strong>Downtown:</strong> from the lobby, outside and right onto Park Ave — Main Street is 1 block away.</p>"
+        },
+        {
+          "heading": "The Bus System",
+          "body": "<p><strong>Breck Free Ride</strong> — the free town bus system covering all of Breckenridge and the ski resort. Routes/maps/times on their website or the Transit App.</p><p><strong>Summit Stage</strong> — the free county bus, departing from Breckenridge Station, also reaching A-Basin, Keystone and Copper Mountain. Routes/maps via the Summit Stage App.</p>"
+        }
+      ]
+    },
+    {
+      "id": "road-conditions",
+      "title": "Road Conditions &amp; Webcams",
+      "subtitle": "I-70, traction laws &amp; live cams",
+      "icon": "road",
+      "sections": [
+        {
+          "heading": "Live Conditions",
+          "body": "<ul><li>CDOT Travel Alerts: <a href=\"https://maps.cotrip.org/list/events\" target=\"_blank\" rel=\"noopener\">maps.cotrip.org/list/events</a></li><li>Road Conditions &amp; Cameras: <a href=\"https://maps.cotrip.org/@-107.59305,39.85241,7?show=winterDriving,roadReports\" target=\"_blank\" rel=\"noopener\">maps.cotrip.org</a></li><li>Highway Webcams: <a href=\"https://www.cotrip.org/list/cameras\" target=\"_blank\" rel=\"noopener\">cotrip.org/list/cameras</a></li></ul>"
+        },
+        {
+          "heading": "I-70 Peak Traffic",
+          "body": "<p>I-70 can be very bad, especially with snow or rain. Peak westbound times are Friday afternoons, Saturday mornings and holidays; peak eastbound congestion is Sunday afternoons. Check conditions beforehand — once you're past Golden, it can be hard to turn around.</p><p><strong>Alternative:</strong> Highway 285 typically adds ~40 minutes but can be faster during severe I-70 congestion (it's more remote and prone to winter hazards).</p>"
+        },
+        {
+          "heading": "Winter Traction / Chain Law (Sept 1 – May 31)",
+          "body": "<p>Vehicles must have snow tires or carry a traction device (chains or tire socks) if they aren't 4WD/AWD: <a href=\"https://www.codot.gov/travel/winter-driving/tractionlaw\" target=\"_blank\" rel=\"noopener\">codot.gov/traction-law</a>. Violations start at $150 and rise to $650 if traffic lanes are closed.</p>"
+        },
+        {
+          "heading": "Mountain &amp; Town Webcams",
+          "body": "<ul><li>Village at Breckenridge: <a href=\"http://www.thevillageatbreckenridge.org/webcam.html\" target=\"_blank\" rel=\"noopener\">thevillageatbreckenridge.org/webcam</a></li><li>Breckenridge Mountain: <a href=\"https://www.summitdaily.com/webcams/\" target=\"_blank\" rel=\"noopener\">summitdaily.com/webcams</a></li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurants, Après &amp; Drinks",
+      "subtitle": "Where to eat and grab a drink",
+      "icon": "food",
+      "sections": [
+        {
+          "heading": "Coffee",
+          "body": "<ul><li><a href=\"https://www.lafrancaisebreck.com/\" target=\"_blank\" rel=\"noopener\">La Française</a> — 411 S Main St — amazing pastries &amp; coffee, go early!</li><li><a href=\"https://www.thecrownbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">The Crown</a> — 215 S Main St — pastries &amp; breakfast sandwiches</li><li><a href=\"https://cabinjuice.com/\" target=\"_blank\" rel=\"noopener\">Cabin Juice</a> — 222 S Main St — historic coffee shop</li><li><a href=\"https://www.unravel.coffee/locations/breckenridge-colorado\" target=\"_blank\" rel=\"noopener\">Unravel Coffee</a> — 605 S Park Ave — inside Gravity Haus</li><li><a href=\"https://coolrivercoffeehouse.com/\" target=\"_blank\" rel=\"noopener\">Cool River</a> — 325 S Main St — riverside seating</li></ul>"
+        },
+        {
+          "heading": "Breakfast",
+          "body": "<ul><li><a href=\"https://www.lafrancaisebreck.com/\" target=\"_blank\" rel=\"noopener\">La Française</a> — French breakfast $$</li><li><a href=\"https://www.boldbreck.com/\" target=\"_blank\" rel=\"noopener\">BoLD</a> — Mediterranean $$</li><li><a href=\"https://coolrivercoffeehouse.com/\" target=\"_blank\" rel=\"noopener\">Cool River</a> — coffeeshop with breakfast $</li><li><a href=\"https://www.thecrownbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">The Crown</a> — pastries &amp; sandwiches $</li><li><a href=\"https://www.columbinecafebreck.com/\" target=\"_blank\" rel=\"noopener\">Columbine Café</a> — American $$</li><li><a href=\"https://www.daylightdonutsbreck.com/\" target=\"_blank\" rel=\"noopener\">Daylight Donuts</a> — $ (cash only)</li><li><a href=\"https://www.breckfastcolorado.com/\" target=\"_blank\" rel=\"noopener\">BreckFast</a> — “fastest breakfast in town” $</li></ul>"
+        },
+        {
+          "heading": "Lunch &amp; Dinner",
+          "body": "<ul><li><a href=\"https://www.lafrancaisebreck.com/\" target=\"_blank\" rel=\"noopener\">La Française Bistro</a> — 411 S Main St — authentic French</li><li><a href=\"https://www.micasabreck.com/\" target=\"_blank\" rel=\"noopener\">Mi Casa</a> — \"2024 James Beard Award Chef\" Mexican $$</li><li><a href=\"https://www.hearthstonebreck.com/\" target=\"_blank\" rel=\"noopener\">Hearthstone</a> — steak &amp; seafood $$$, patio</li><li><a href=\"https://peakofasia.com/\" target=\"_blank\" rel=\"noopener\">Peak of Asia</a> — family run Vietnamese and Pho</li><li><a href=\"https://thecarlinbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">The Carlin</a> — raw bar, great happy hour $$$$</li><li><a href=\"https://www.rootstalkbreck.com/\" target=\"_blank\" rel=\"noopener\">Rootstalk</a> — \"2024 James Beard Award Chef\" American $$$$</li><li><a href=\"https://breckenridgealehouse.com/\" target=\"_blank\" rel=\"noopener\">Breckenridge Ale House &amp; Pizza</a> — huge 24-inch slices $$</li><li><a href=\"https://flipsidebreck.com/\" target=\"_blank\" rel=\"noopener\">Flipside Burger</a> — fancier burgers, adult milkshakes $$</li><li><a href=\"https://aurumbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">Aurum</a> — very popular, go for happy hour $$$$</li><li><a href=\"https://www.briarrosechophouse.com/\" target=\"_blank\" rel=\"noopener\">Briar Rose</a> — wild game, popular happy hour $$$$</li><li><a href=\"https://www.sanchotaco.com/\" target=\"_blank\" rel=\"noopener\">Sancho Tacos</a> — Mexican tacos $</li><li>Twist, Giampietro, Bangkok Happy Bowl, Fatty's Pizza, The Canteen, The Blue Fish, Empire Burger, Ollie's Pub, The Blue Stag, Oaxacan Bites (cash only) also recommended</li></ul>"
+        },
+        {
+          "heading": "High-End Dining",
+          "body": "<ul><li><a href=\"https://aurumbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">Aurum</a></li><li><a href=\"https://www.hearthstonebreck.com/\" target=\"_blank\" rel=\"noopener\">Hearthstone</a></li><li><a href=\"https://www.rootstalkbreck.com/\" target=\"_blank\" rel=\"noopener\">Rootstalk</a></li><li><a href=\"https://thecarlinbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">The Carlin</a></li><li><a href=\"https://www.briarrosechophouse.com/\" target=\"_blank\" rel=\"noopener\">Briar Rose</a></li></ul>"
+        },
+        {
+          "heading": "Vegetarian &amp; Vegan Friendly",
+          "body": "<ul><li><a href=\"https://piantepizzeria.com/\" target=\"_blank\" rel=\"noopener\">Piante Pizzeria</a></li><li><a href=\"https://aurumbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">Aurum</a></li><li><a href=\"https://www.boldbreck.com/\" target=\"_blank\" rel=\"noopener\">BoLD</a></li><li><a href=\"https://www.breckfastcolorado.com/\" target=\"_blank\" rel=\"noopener\">BreckFast</a></li><li><a href=\"https://www.clintsbakery.com/\" target=\"_blank\" rel=\"noopener\">Clint's Bakery</a></li><li><a href=\"https://coolrivercoffeehouse.com/\" target=\"_blank\" rel=\"noopener\">Cool River</a></li><li><a href=\"https://www.empireburger.com/\" target=\"_blank\" rel=\"noopener\">Empire Burger</a></li><li><a href=\"https://www.hearthstonebreck.com/\" target=\"_blank\" rel=\"noopener\">Hearthstone</a></li><li><a href=\"https://www.micasabreck.com/\" target=\"_blank\" rel=\"noopener\">Mi Casa</a></li><li><a href=\"https://gophoreal.com/\" target=\"_blank\" rel=\"noopener\">Pho Real Vietnamese</a></li><li><a href=\"https://www.sanchotaco.com/\" target=\"_blank\" rel=\"noopener\">Sancho Tacos</a></li><li><a href=\"https://www.olliespub.com/\" target=\"_blank\" rel=\"noopener\">Ollie's Pub</a></li></ul>"
+        },
+        {
+          "heading": "Dessert",
+          "body": "<ul><li><a href=\"https://www.stirpancreamery.com/\" target=\"_blank\" rel=\"noopener\">Stir-Pan Creamery</a> — rolled ice cream</li><li><a href=\"https://crepesalacarts.com/\" target=\"_blank\" rel=\"noopener\">Crepes a la Cart</a> — famous crepe cart, long lines</li><li><a href=\"https://www.facebook.com/breckenridgecookies/\" target=\"_blank\" rel=\"noopener\">Mountain Top Cookie Shop</a></li><li><a href=\"https://flipsidebreck.com/\" target=\"_blank\" rel=\"noopener\">Flipside Burger</a> — milkshakes</li><li><a href=\"https://www.rmcf.com/pages/rocky-mountain-chocolate-factory-of-breckenridge-co\" target=\"_blank\" rel=\"noopener\">Rocky Mountain Chocolate Shop</a></li><li>Mountain Top Hot Chocolate — “TikTok famous”</li></ul>"
+        },
+        {
+          "heading": "Après (Happy Hour)",
+          "body": "<p>Après is a way of life here — a post-slope, post-hike, post-anything ritual. Top picks:</p><ul><li><a href=\"https://www.micasabreck.com/\" target=\"_blank\" rel=\"noopener\">Mi Casa</a></li><li><a href=\"https://www.sanchotaco.com/\" target=\"_blank\" rel=\"noopener\">Sancho Tacos</a></li><li><a href=\"https://www.blueriverbistro.com/\" target=\"_blank\" rel=\"noopener\">Blue River Bistro</a></li><li><a href=\"https://aurumbreckenridge.com/\" target=\"_blank\" rel=\"noopener\">Aurum</a></li><li><a href=\"https://quandarygrille.com/\" target=\"_blank\" rel=\"noopener\">The Quandary</a></li><li><a href=\"https://cecilias.tv/\" target=\"_blank\" rel=\"noopener\">Cecilia's</a> — dance club, “2 for 1 martinis 3–8pm!”</li></ul>"
+        },
+        {
+          "heading": "Breweries &amp; Distilleries",
+          "body": "<ul><li><a href=\"https://highsidebrewing.com/location/breckenridge/\" target=\"_blank\" rel=\"noopener\">Highside Brewing</a></li><li><a href=\"https://www.brokencompassbrewing.com/\" target=\"_blank\" rel=\"noopener\">Broken Compass</a></li><li><a href=\"https://outerrange.com/\" target=\"_blank\" rel=\"noopener\">Outer Range</a> — Frisco, “my absolute favorite brewery in the world”</li><li><a href=\"https://www.breckbrew.com/\" target=\"_blank\" rel=\"noopener\">Breckenridge Brewery</a></li><li><a href=\"https://breckenridgedistillery.com/\" target=\"_blank\" rel=\"noopener\">Breckenridge Distillery</a> — free shuttle</li><li><a href=\"https://shiftylifty.com/\" target=\"_blank\" rel=\"noopener\">The Shifty Lifty</a> — Gondola Bar</li></ul>"
+        },
+        {
+          "heading": "Unique Drink Spots",
+          "body": "<ul><li><a href=\"https://rmumtnculture.com/pages/rmu-breckenridge\" target=\"_blank\" rel=\"noopener\">Rocky Mountain Underground</a> — live music, back patio</li><li><a href=\"https://www.breckwinery.com/\" target=\"_blank\" rel=\"noopener\">Continental Divide Winery</a></li><li><a href=\"https://www.cheeseshopbreck.com/\" target=\"_blank\" rel=\"noopener\">The Cheese Shop of Breckenridge</a></li><li><a href=\"https://www.carboywinery.com/locations/breckenridge/\" target=\"_blank\" rel=\"noopener\">Carboy Winery</a></li><li><a href=\"https://www.breckwineandcheese.com/\" target=\"_blank\" rel=\"noopener\">Ridge Street Wine</a></li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "groceries",
+      "title": "Groceries &amp; Deliveries",
+      "subtitle": "Nearby stores &amp; delivery options",
+      "icon": "cart",
+      "sections": [
+        {
+          "heading": "In Breckenridge",
+          "body": "<ul><li><strong>City Market</strong> — 400 N Park Ave — largest selection, furthest from the condo</li><li><strong>Breckenridge Market &amp; Liquor Store</strong> — 311 S Ridge Rd — 2 walkable blocks, smaller/pricier</li></ul>"
+        },
+        {
+          "heading": "Nearby Towns",
+          "body": "<p><strong>Frisco:</strong> Whole Foods (Amazon Prime pickup, no delivery), Natural Grocers, Safeway, Walmart.<br><strong>Dillon:</strong> City Market (largest in the area).<br><strong>Arvada:</strong> Costco (closest on the way from Denver, right off the highway).</p><p><em>Tip: bring a reusable bag — the state charges per bag.</em></p>"
+        },
+        {
+          "heading": "Delivery",
+          "body": "<p><strong>City Market</strong> — order via their website or app. <strong>Instacart</strong> — available in Breckenridge, but tip well or it may not get picked up.</p>"
+        },
+        {
+          "heading": "Liquor Stores",
+          "body": "<p>Breckenridge Market &amp; Liquor Store (311 S Ridge Rd), City Liquors (400 North Park Ave, largest selection), and Breckenridge Distillery (1925 Airport Rd) for locally distilled spirits.</p>"
+        }
+      ]
+    },
+    {
+      "id": "local-tips",
+      "title": "A Local's Tips",
+      "subtitle": "Altitude, safety &amp; savings",
+      "icon": "compass",
+      "sections": [
+        {
+          "heading": "Altitude &amp; Health",
+          "body": "<p>Start hydrating two days before arrival — altitude sickness is very real. Avoid alcohol your first night and get adequate rest; Excedrin can help with altitude headaches.</p>"
+        },
+        {
+          "heading": "Clothing &amp; Sun",
+          "body": "<p>Wear layered clothing (temperatures swing a lot) and apply sunscreen consistently — you'll burn much easier up here, even on a cloudy day.</p>"
+        },
+        {
+          "heading": "Safety &amp; Strategy",
+          "body": "<p>Always wear a helmet while skiing (rentals available locally). Ski during lunch hours (11:30am–1:30pm) to avoid crowds, then eat after. Carry snacks in your jacket, and download the Epic app for lift-line wait times and trail maps.</p>"
+        },
+        {
+          "heading": "Cold-Weather Tech",
+          "body": "<p>Cold drains device batteries fast — bring a spare, kept in a warm pocket.</p>"
+        },
+        {
+          "heading": "Traffic &amp; Cost-Saving",
+          "body": "<p>Parking is hard — walk when you can. For Sunday I-70 traffic, leave early or take the back route through Fairplay/Highway 285. Book rental gear online 2 weeks ahead for a discount, buy an Epic Pass for 4+ ski days for 20% off various services, and visit for happy hour (typically 3–6pm) for restaurant deals.</p>"
+        }
+      ]
+    },
+    {
+      "id": "ski-season",
+      "title": "Ski Season Info",
+      "subtitle": "Opening dates, seasons &amp; Epic Pass",
+      "icon": "ski",
+      "sections": [
+        {
+          "heading": "Season Dates",
+          "body": "<p><strong>Projected opening:</strong> ~Nov 10 (weather-dependent) &nbsp;•&nbsp; <strong>Projected closing:</strong> Memorial Day (weather-dependent).</p><p>Vail Resorts typically opens Peak 8 first (buses/gondola only at first), then Peak 9 and the Quicksilver lift (Thanksgiving–mid-December), then Peak 7, with Peak 6 and 10 last (goal: open by Christmas). Late-season skiing is Peak 8 only, via buses or gondola.</p>"
+        },
+        {
+          "heading": "Our Ski Seasons",
+          "body": "<ul><li><strong>Early</strong> — opening to Dec 15: best deals, warmer weather, resort not fully open</li><li><strong>Peak</strong> — Christmas through end of February: busiest &amp; most expensive</li><li><strong>Spring</strong> — March: warm, sunny, excellent snow</li><li><strong>Late Season</strong> — April–May: warm, sunny, can be slushy, cheapest rates</li></ul>"
+        },
+        {
+          "heading": "Epic Pass Discounts",
+          "body": "<ul><li>20% off food &amp; non-alcoholic beverages (up to $150/day)</li><li>20% off group ski/ride lessons</li><li>20% off Epic Mountain Express shuttles from DEN and Eagle County-Vail Regional (EGE)</li><li>20% off gear rentals</li><li>20% off select on-mountain activities</li><li>50% off tune-up + 1 free wax at specific locations</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "winter-activities",
+      "title": "Winter Activities",
+      "subtitle": "Beyond skiing",
+      "icon": "snowflake",
+      "sections": [
+        {
+          "heading": "Skiing &amp; Lift Tickets",
+          "body": "<p>Buy lift tickets or an Epic Pass ahead of time — all Vail Resorts (Breckenridge, Keystone, Vail, Beaver Creek) use RF-scan Epic Pass entry. If purchased online, pick up your physical pass at the ticket office atop Maggie Pond, ideally the day before to skip morning lines.</p><p><strong>Keystone</strong> (~20 min) offers night skiing. <strong>A-Basin</strong> (~30 min) is a locals' favorite, no longer on Epic Pass. <strong>Vail/Beaver Creek</strong> (~40 min) offers world-class skiing. <strong>Copper Mountain</strong> (~30 min) is not on Epic Pass.</p><p>The Epic App tracks your location on the mountain and your ski days, plus morning snow/weather reports — it can drain your battery, so bring a battery pack.</p>"
+        },
+        {
+          "heading": "Ski &amp; Snowboard Rental",
+          "body": "<p><strong>Blue River Sports / Mountain Wave Sports</strong> — 600 South Park Avenue — best selection in town, local, discounts for booking ahead, also rents pants/jackets. <em>Order 2+ weeks ahead online for a discount; pick up gear the afternoon/evening before your ski day to skip the morning rush.</em></p>"
+        },
+        {
+          "heading": "Sledding (Free)",
+          "body": "<p>Two sleds live in the closet/under the bed — please return them and report any damage.</p><ul><li><strong>Carter Park Sledding Hill</strong> — 300 S. High Street, 4 blocks east of Main St, free</li><li><strong>Airport Road Sledding Hill</strong> — 1760 Airport Road, free, near overnight parking</li><li><strong>Base of Peak 9</strong> — left side of Quicksilver Lift near Maggie Pond, free/unofficial, best after the resort closes</li></ul>"
+        },
+        {
+          "heading": "Tubing (Paid)",
+          "body": "<p>Frisco Adventure Park (multiple lanes, lift-accessed) and Keystone Mountain Top Snow Tubing (day/night, gondola access) — both require reservations.</p>"
+        },
+        {
+          "heading": "Ice Skating",
+          "body": "<p><strong>Stephen C West Ice Rink</strong> — 189 Boreas Pass Rd, 5 blocks from the condo, indoor (year-round) and outdoor (winter). Nearby: Isak the Troll, a short walk away for a great photo. <strong>Keystone Ice Skate on a Lake</strong> — a 5-acre lake rink with a full bar.</p>"
+        },
+        {
+          "heading": "More Winter Activities",
+          "body": "<p>Fat biking (rentable around town), scenic snowcat tours, winter zip lining, ice fishing, dog sledding &amp; snowmobile rentals (Good Times Adventures), sleigh rides (Two Below Zero, Golden Horseshoe Tours, Breck Stables), snowshoeing and cross-country skiing at the Gold Run Nordic Center and the groomed Rec Path to Frisco.</p>"
+        }
+      ]
+    },
+    {
+      "id": "summer-activities",
+      "title": "Summer Activities",
+      "subtitle": "Rafting, biking, golf &amp; more",
+      "icon": "sun",
+      "sections": [
+        {
+          "heading": "Biking",
+          "body": "<p><strong>Blue River Sports / Mountain Wave Sports</strong> — 600 South Park Avenue — local experts, road/hybrid/mountain bike rentals. For mountain biking, check <a href=\"https://www.mtbproject.com\" target=\"_blank\" rel=\"noopener\">MTBproject.com</a>; trails near Carter Park are a great start. For a scenic ride, take a hybrid along the river trail to Frisco for lunch and back — a few hours round trip. For a challenge, ride around Lake Dillon up to Sapphire Point.</p> <p>There’s a bike rack in the garage &mdash; bring a lock!</p>"
+        },
+        {
+          "heading": "Rafting (May–September)",
+          "body": "<p>Favorite: the Arkansas River / Browns Canyon run (moderate whitewater, great for beginners/families, ~1 hr away via Buena Vista outfitters). Also nearby: Clear Creek (II–IV, near Idaho Springs), Blue River (closest, ~30 min, all ability levels), and the Colorado River (mellow family floats from Kremmling). Breckenridge Whitewater Rafting Company: 970-423-7031.</p>"
+        },
+        {
+          "heading": "Peak 8 Fun Park",
+          "body": "<p>Free summer gondola access. Alpine SuperSlides (a must-do!), mountain biking, mini golf, trampoline, bounce house, gemstone panning, scenic chairlift rides, climbing wall and a maze.</p>"
+        },
+        {
+          "heading": "Golf",
+          "body": "<p>Breckenridge Golf Club (three Jack Nicklaus nines at 9,300+ ft), Keystone River Golf Course, Keystone Ranch Golf Course, and The Raven Golf Club at Three Peaks in Silverthorne.</p>"
+        },
+        {
+          "heading": "Lake Dillon Reservoir",
+          "body": "<p>Boat rentals from the <a href=\"https://www.townofdillon.com/marina/boat-rentals\" target=\"_blank\" rel=\"noopener\">Dillon side</a> or the <a href=\"https://www.townoffrisco.com/play/dillon-reservoir/power-boats/\" target=\"_blank\" rel=\"noopener\">Frisco side</a> (reserve ahead for a discount on either side). Stand-up paddleboarding, canoeing and kayaking available at Maggie Pond, Dillon Marina and Frisco Marina.</p>"
+        },
+        {
+          "heading": "Fly Fishing",
+          "body": "<p>Numerous rivers, streams, alpine lakes and reservoirs within an hour. Local shops: Breckenridge Outfitters, Mountain Angler, Silver Flask Fishing, Trouts Fly Fishing.</p>"
+        },
+        {
+          "heading": "Horseback Riding",
+          "body": "<p>Breckenridge Stables (in-town trail rides, good for kids, late May–late Sept), Rusty Spurr Ranch (cattle drives, wide-open trail rides), American Safari Ranch (horseback + ATV tours, open year-round).</p>"
+        },
+        {
+          "heading": "Jeeps &amp; 4-Wheeling",
+          "body": "<p>Mountain High Rentals (1129 Dillon Dam Rd, Frisco) rents Jeeps/ATVs. Best trails are mostly near Leadville — many companies offer guided tours.</p>"
+        }
+      ]
+    },
+    {
+      "id": "year-round",
+      "title": "Year-Round Activities",
+      "subtitle": "Hot springs, mine tours &amp; day trips",
+      "icon": "mountain",
+      "sections": [
+        {
+          "heading": "Hot Springs",
+          "body": "<ul><li><strong>Hot Sulphur Hot Springs</strong> — 1.5 hr drive, 21 mineral pools, 95–112°F</li><li><strong>Glenwood Hot Springs Pool &amp; Spa</strong> — world's largest mineral hot springs pool</li><li><strong>Iron Mountain Hot Springs</strong> — 16 geothermal soaking pools, quieter setting</li><li><strong>Strawberry Park Hot Springs</strong> — local favorite, natural setting</li><li><strong>Mount Princeton Hot Springs</strong> — family-friendly, near Buena Vista</li></ul>"
+        },
+        {
+          "heading": "Mine Tours",
+          "body": "<p><strong>Country Boy Mine and Gold Panning</strong> — 0542 French Gulch Road — a 1,000-foot-deep mine tour, open year-round.</p>"
+        },
+        {
+          "heading": "Recreation &amp; Massage",
+          "body": "<p><strong>Breckenridge Rec Center</strong> — full gym, fitness classes, pools, tennis, rock climbing. For a massage: The Spa at Beaver Run (970-453-7793), Breckenridge Mountain Massage (970-453-8757), Harmony Massage &amp; O2 Spa (970-453-2257) — all open year-round.</p>"
+        },
+        {
+          "heading": "Day Trips to Nearby Towns",
+          "body": "<ul><li><strong>Fairplay</strong> (30 min) — “Official Trout Fishing Capital of Colorado,” South Park City Museum</li><li><strong>Alma</strong> — home of the highest bar in North America (10,580 ft)</li><li><strong>Leadville</strong> (45 min) — former silver mining town at 10,152 ft</li><li><strong>Aspen</strong> — via Independence Pass in summer; beautiful but pricey</li><li><strong>Grand Lake</strong> (1.5 hr) — west entrance to Rocky Mountain National Park</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "hikes",
+      "title": "Hikes",
+      "subtitle": "Easy, moderate &amp; hard trails",
+      "icon": "boot",
+      "sections": [
+        {
+          "heading": "Tip",
+          "body": "<p>Download the <strong>All Trails</strong> app for full trail info, maps and current conditions.</p>"
+        },
+        {
+          "heading": "Easy Hikes",
+          "body": "<ul><li><strong>Isak the Troll</strong> — not really a hike, but a great <a href=\"https://gobreck.com/experience-breckenridge/arts-and-culture/how-to-find-the-breckenridge-troll\" target=\"_blank\" rel=\"noopener\">photo op</a>; free parking behind the Ice Rink</li><li><strong>Trollstigen, Southside &amp; Illinois Creek Low Trail</strong> — 1 mi, +118 ft, loop, 25 min</li><li><strong>Summit County Recreation Path</strong> — 2.8 mi, +118 ft, out &amp; back, 53 min — paved riverside trail</li><li><strong>Minnie Mine Loop</strong> — 1.5 mi, +209 ft, loop, 39 min — past historic mines</li><li><strong>Blue Lakes Trail</strong> — 1 mi, +108 ft, out &amp; back, 24 min</li><li><strong>Spruce Creek Loop</strong> — 4.3 mi, +984 ft, loop, 2h16m</li><li><strong>Sallie Barber Mine Trail</strong> — 2.7 mi, +383 ft, out &amp; back, 1h10m</li><li><strong>Aspen Alley</strong> — 2.6 mi, +582 ft, out &amp; back, 1h18m — golden aspens in fall</li><li><strong>Sawmill Reservoir</strong> — 1.3 mi, +232 ft, loop, 36 min</li><li><strong>Sapphire Point Overlook</strong> — 0.6 mi, +36 ft, loop, 13 min — popular overlook</li></ul><p>All trails linked on <a href=\"https://www.alltrails.com\" target=\"_blank\" rel=\"noopener\">AllTrails.com</a> — search the trail name plus “Breckenridge, CO.”</p>"
+        },
+        {
+          "heading": "Moderate Hikes",
+          "body": "<ul><li><strong>Mayflower Lake &amp; Mohawk Lakes</strong> — 7.9 mi, +1,922 ft, out &amp; back, 4h17m — wildflowers &amp; possible mountain goats</li><li><strong>Willow Creek Falls</strong> — 4.5 mi, +1,131 ft, out &amp; back, 2h28m — hidden waterfall</li><li><strong>Hoosier Pass Loop</strong> — 2.8 mi, +688 ft, loop, 1h31m — Continental Divide sign at the trailhead</li><li><strong>Boreas Pass</strong> — 2.5 mi, +354 ft, loop, 1h15m — also drivable</li><li><strong>McCullough Gulch Waterfall Trail</strong> — 3.6 mi, +951 ft, out &amp; back, 2h02m</li><li><strong>Dillon Reservoir Bike Loop</strong> — 18.5 mi, +1,076 ft, loop, 6h22m</li><li><strong>Prospect Hill Trail</strong> — 6.1 mi, +1,092 ft, loop, 2h53m</li></ul>"
+        },
+        {
+          "heading": "Hard Hikes",
+          "body": "<ul><li><strong>Crystal Lake</strong> — 8.4 mi, +2,568 ft, out &amp; back, 5h07m — 4WD can shorten it to the Lower Lake</li><li><strong>Peaks Trail</strong> — 15.3 mi, +1,735 ft, out &amp; back, 6h11m — classic Frisco–Breckenridge route, year-round</li><li><strong>Bald Mountain via Baldy Road</strong> — 10.2 mi, +3,087 ft, out &amp; back, 6h10m — high-clearance 4WD needed to drive it</li><li><strong>McCullough Gulch Trail</strong> — 6.4 mi, +1,607 ft, out &amp; back, 2h — lakes, waterfalls, mountain goats</li><li><strong>Peak 6, 7 &amp; 8 via Wheeler Trail</strong> — 10 mi, +3,241 ft, out &amp; back, 6h17m</li><li><strong>Colorado Trail: Revette Dr. to North Fork Swan River</strong> — 12.2 mi, +2,641 ft, point-to-point, 5h51m</li><li><strong>Mount Guyot</strong> (13,370 ft summit) — 7.8 mi, +2,965 ft, out &amp; back, 6h</li><li><strong>Quandary Peak Trail</strong> (14,271 ft summit) — 6.3 mi, +3,333 ft, out &amp; back, 5h20m — popular “first 14er”</li><li><strong>Grays and Torreys Peak Trail</strong> (14,278 / 14,272 ft summits) — 8.1 mi, +3,602 ft, out &amp; back, 6h08m — bag two 14ers in one day</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "title": "Annual Events &amp; Festivals",
+      "subtitle": "What's happening each season",
+      "icon": "calendar",
+      "sections": [
+        {
+          "heading": "Summer",
+          "body": "<ul><li><strong>Jun 9–Sep 8:</strong> <a href=\"https://rockymountainevents.com/breckenridge-farmers-market/\" target=\"_blank\" rel=\"noopener\">The Sunday Market</a></li><li><strong>Jul 4:</strong> <a href=\"https://gobreck.com/event/independence-day-celebration\" target=\"_blank\" rel=\"noopener\">Independence Day Celebration &amp; Parade</a></li><li><strong>Jul 4–6:</strong> <a href=\"http://www.mountainartfestivals.com/festivals-calendar\" target=\"_blank\" rel=\"noopener\">Breckenridge July Art Festival</a></li><li><strong>Jul 13:</strong> <a href=\"https://summer.breckenridgebeerfestival.com/\" target=\"_blank\" rel=\"noopener\">Breckenridge Summer Beer Festival</a></li><li><strong>Jul 26–28:</strong> <a href=\"https://rockymtnevents.com/breckenridge-food-wine/\" target=\"_blank\" rel=\"noopener\">Breckenridge Food and Wine Festival</a></li><li><strong>Aug 1–3:</strong> Breckenridge August Art Festival</li><li><strong>Aug 22–24:</strong> <a href=\"https://breckenridgewineclassic.com/\" target=\"_blank\" rel=\"noopener\">Breckenridge Wine Classic</a></li><li><strong>Aug 30–Sep 1:</strong> <a href=\"https://rockymountainevents.com/breckenridge-hogfest/\" target=\"_blank\" rel=\"noopener\">Hogfest Bacon &amp; Bourbon Festival</a></li></ul>"
+        },
+        {
+          "heading": "Fall",
+          "body": "<ul><li><strong>Labor Day:</strong> Sept 2–4</li><li><strong>Sep 13–15:</strong> <a href=\"https://gobreck.com/event/breckenridge-oktoberfest\" target=\"_blank\" rel=\"noopener\">Breckenridge Oktoberfest</a></li><li><strong>Sep 15–18:</strong> <a href=\"https://breckfilm.org/festival-2022\" target=\"_blank\" rel=\"noopener\">Breckenridge Film Festival</a></li><li><strong>Sep 27–29:</strong> <a href=\"https://rockymountainevents.com/breckenridge-strings-ciders-sours/\" target=\"_blank\" rel=\"noopener\">Strings, Ciders &amp; Sours Festival</a></li><li><strong>Oct 11–13:</strong> <a href=\"https://www.breckenridgecraftspiritsfestival.com/\" target=\"_blank\" rel=\"noopener\">Breckenridge Craft Spirits Festival</a></li></ul>"
+        },
+        {
+          "heading": "Winter",
+          "body": "<ul><li><strong>Dec 7:</strong> <a href=\"https://gobreck.com/event/lighting-breckenridge-race-santas\" target=\"_blank\" rel=\"noopener\">Lighting of Breckenridge &amp; Race of the Santas</a></li><li><strong>Dec 12–14:</strong> <a href=\"https://gobreck.com/event/ullr-fest\" target=\"_blank\" rel=\"noopener\">ULLR Fest</a></li><li><strong>Jan 20–29:</strong> <a href=\"https://gobreck.com/event/international-snow-sculpture-championships\" target=\"_blank\" rel=\"noopener\">International Snow Sculpture Championships</a></li></ul><p><em>Dates shown are from past years — check <a href=\"https://www.gobreck.com\" target=\"_blank\" rel=\"noopener\">gobreck.com</a> for the current calendar before you plan around them.</em></p>"
+        }
+      ]
+    },
+    {
+      "id": "booking",
+      "title": "Booking &amp; Returning Guests",
+      "subtitle": "This unit's booking links &amp; policies",
+      "icon": "key",
+      "sections": [
+        {
+          "heading": "Ways to Book",
+          "body": "<p>You can book this unit via Airbnb, VRBO, or directly with your host.</p><p><strong>Airbnb:</strong> {{LINK:AIRBNB_URL}}<br><strong>VRBO:</strong> {{LINK:VRBO_URL}}</p>"
+        },
+        {
+          "heading": "Cancellation Policies",
+          "body": "<p><strong>Airbnb:</strong> full refund within 48 hours of booking if check-in is 14+ days away; 50% refund if cancelled 7+ days before check-in; no refund within 7 days of check-in.</p><p><strong>VRBO:</strong> 100% refund if cancelled 30+ days before check-in; 50% if cancelled 14–30 days before; no refund otherwise.</p><p><strong>Direct booking:</strong> no refund, but one reschedule is allowed (based on availability) up to 14 days before check-in.</p>"
+        },
+        {
+          "heading": "Book Directly &amp; Save",
+          "body": "<p>Booking directly saves platform fees. The rate is the nightly rate + {{CLEANING_FEE}} cleaning + 12.85% taxes{{PARKING_FEE_NOTE}}. Pay via Zelle, PayPal, Venmo, mailed check, or by credit card at {{LINK:DIRECT_BOOK_URL}}.</p>"
+        }
+      ]
+    },
+    {
+      "id": "yourhosts",
+      "icon": "people",
+      "title": "About Your Hosts",
+      "subtitle": "Learn a bit about your hosts",
+      "sections": [
+        {
+          "heading": "About Your Hosts",
+          "body": "<p>You may find yourself chatting with Kent, Jim, Dave, or Laura before or during your stay. We are all owners at the Village at Breckenridge, longtime friends, and co-hosts who work together to support one another's properties. Each of us is active at the Village at Breckenridge as well as in the overall Breckenridge and Summit County community.</p><p>Because we collaborate closely, any of us may be answering your questions, assisting with your reservation, or helping resolve an issue during your stay. By working as a team, we can provide faster responses, better local knowledge, and a smoother guest experience.</p><p>Our shared goal is simple: to make sure you have an outstanding stay in Breckenridge.</p>"
+        }
+      ]
+    }
+  ]
+}
