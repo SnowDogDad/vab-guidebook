@@ -15,8 +15,8 @@
       "AIRBNB_URL": "https://airbnb.com/h/vab2br2ba",
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "",
-      "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " + $35/night parking if needed"
+      "CLEANING_FEE": "$220",
+      "PARKING_FEE_NOTE": " + $45/night parking if needed"
     }
   },
   "4604": {
@@ -35,7 +35,7 @@
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "https://breckenridge.staydirectly.com",
       "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " + $35/night parking if needed"
+      "PARKING_FEE_NOTE": " + $45/night parking if needed"
     }
   },
   "4325": {
