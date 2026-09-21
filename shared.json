@@ -32,11 +32,11 @@
       "sections": [
         {
           "heading": "Getting Connected",
-          "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p>"
+          "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
         },
         {
           "heading": "Smart TV &amp; Streaming",
-          "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p>"
+          "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
         },
         {
           "heading": "Google Home Smart Speaker",
@@ -52,7 +52,7 @@
       "sections": [
         {
           "heading": "Reserved Parking",
-          "body": "<p><strong>{{PARKING_RATE}}/night</strong>, year-round, starting at check-in and ending at check-out. The garage usually fills each night and needs to be booked in advance. <strong>Garage entry height: 7 ft 6 in.</strong></p><p>If you’re skiing on your check-out day, you can move your car to the daytime paid skier parking in the F-lot (across from the building) or the free daytime skier parking at the Ice Rink lot.</p>"
+          "body": "<p><strong>{{PARKING_RATE}}/night</strong>, year-round, starting at check-in and ending at check-out. The garage often fills each night and needs to be booked in advance. Individual spaces are not reserved; you can park anywhere in the garage. If you arrive and all spots are taken, you may park in an EV charging or handicapped space.<strong>Garage entry height: 7 ft 6 in.</strong></p><p>If you’re skiing on your check-out day, you can move your car to the daytime paid skier parking in the F-lot (across from the building) or the free daytime skier parking at the Ice Rink lot.</p>"
         },
         {
           "heading": "If the Garage Is Full",
@@ -96,7 +96,7 @@
         },
         {
           "heading": "Sleeper Sofa",
-          "body": "<p>If your unit has a leather sleeper sofa, please be gentle with it &mdash; it's a genuine leather piece. Don't unzip the pillows, they're meant to stay attached. To open the bed, pull the handle in the center back of the sofa (instructions are also on the table).</p>"
+          "body": "<p>If your unit has a leather sleeper sofa, please be gentle with it &mdash; it's a genuine leather sofa. Don't unzip the pillows, they're meant to stay attached. To open the bed, pull the handle in the center back of the sofa (instructions are also on the table).</p>"
         }
       ]
     },
@@ -112,7 +112,7 @@
         },
         {
           "heading": "Movie Room",
-          "body": "<p>Reserve via the Village at Breckenridge app. Access via the stairs down from the Health Club. Movies for all ages via Xfinity and Disney+; seats up to 15. Please clear your trash before leaving.</p>"
+          "body": "<p>Reserve via the Village at Breckenridge app. Access via the stairs down from the Leisure Center / Health Club or from the door in the green section of the garage.  Movies for all ages via Xfinity and Disney+; seats up to 15. Please clear your trash before leaving.</p>"
         },
         {
           "heading": "Xbox Gaming Room",

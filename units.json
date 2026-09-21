@@ -8,14 +8,14 @@
       "welcome": "Thanks for choosing my cozy mountain condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
     },
     "tokens": {
-      "WIFI_NETWORK": "",
-      "WIFI_PASSWORD": "",
+      "WIFI_NETWORK": "shavano2603",
+      "WIFI_PASSWORD": "shavano2603",
       "PARKING_RATE": "$45",
       "ADDRESS_BLOCK": "The Village at Breckenridge, Shavano Building<br>535 South Park Ave, Unit 2603<br>Breckenridge, CO 80424",
       "AIRBNB_URL": "https://airbnb.com/h/vab2br2ba",
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "",
-      "CLEANING_FEE": "$220",
+      "CLEANING_FEE": "$222",
       "PARKING_FEE_NOTE": " + $45/night parking if needed"
     }
   },
@@ -27,8 +27,8 @@
       "welcome": "Thanks for choosing my cozy mountain condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
     },
     "tokens": {
-      "WIFI_NETWORK": "",
-      "WIFI_PASSWORD": "",
+      "WIFI_NETWORK": "peak9inn4604",
+      "WIFI_PASSWORD": "peak9inn4604",
       "PARKING_RATE": "$45",
       "ADDRESS_BLOCK": "The Village at Breckenridge, Unit 4604<br>Breckenridge, CO 80424",
       "AIRBNB_URL": "",
