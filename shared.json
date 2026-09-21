@@ -52,7 +52,7 @@
       "sections": [
         {
           "heading": "Reserved Parking",
-          "body": "<p><strong>{{PARKING_RATE}}/night</strong>, year-round, starting at check-in and ending at check-out. The garage often fills each night and needs to be booked in advance. Individual spaces are not reserved; you can park anywhere in the garage. If you arrive and all spots are taken, you may park in an EV charging or handicapped space.<strong>Garage entry height: 7 ft 6 in.</strong></p><p>If you’re skiing on your check-out day, you can move your car to the daytime paid skier parking in the F-lot (across from the building) or the free daytime skier parking at the Ice Rink lot.</p>"
+          "body": "<p><strong>{{PARKING_RATE}}/night</strong>, year-round, starting at check-in and ending at check-out. The garage often fills each night and needs to be booked in advance. Individual spaces are not reserved; you can park anywhere in the garage. If you arrive and all spots are taken, you may park in an EV charging or handicapped space. <strong>Garage entry height: 7 ft 6 in.</strong></p><p>If you’re skiing on your check-out day, you can move your car to the daytime paid skier parking in the F-lot (across from the building) or the free daytime skier parking at the Ice Rink lot.</p>"
         },
         {
           "heading": "If the Garage Is Full",

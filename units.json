@@ -17,6 +17,24 @@
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$222",
       "PARKING_FEE_NOTE": " + $45/night parking if needed"
+    },
+    "overrides": {
+      "wifi": {
+        "sections": [
+          {
+            "heading": "Getting Connected",
+            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
+          },
+          {
+            "heading": "Smart TV &amp; Streaming",
+            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
+          },
+          {
+            "heading": "Amazon Alexa Smart Speaker",
+            "body": "<p>There’s an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
+          }
+        ]
+      }
     }
   },
   "4604": {
@@ -55,6 +73,20 @@
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$110",
       "PARKING_FEE_NOTE": " + $35/night parking if needed"
+    },
+    "overrides": {
+      "wifi": {
+        "sections": [
+          {
+            "heading": "Getting Connected",
+            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
+          },
+          {
+            "heading": "Smart TV &amp; Streaming",
+            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
+          }
+        ]
+      }
     }
   },
   "4212": {
@@ -74,6 +106,20 @@
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$110",
       "PARKING_FEE_NOTE": " + $35/night parking if needed"
+    },
+    "overrides": {
+      "wifi": {
+        "sections": [
+          {
+            "heading": "Getting Connected",
+            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
+          },
+          {
+            "heading": "Smart TV &amp; Streaming",
+            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
+          }
+        ]
+      }
     }
   },
   "steiermark-108": {
@@ -174,6 +220,83 @@
           {
             "heading": "Address",
             "body": "<p>{{ADDRESS_BLOCK}}</p>"
+          }
+        ]
+      },
+      "wifi": {
+        "sections": [
+          {
+            "heading": "Getting Connected",
+            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
+          },
+          {
+            "heading": "Smart TV &amp; Streaming",
+            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
+          },
+          {
+            "heading": "Amazon Alexa Smart Speaker",
+            "body": "<p>There’s an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
+          }
+        ]
+      }
+    }
+  },
+  "4516": {
+    "property": {
+      "name": "Village at Breckenridge 4516",
+      "subtitle": "Peak 9 Inn • Unit 4516",
+      "heroImage": "images/4516-hero.jpg",
+      "welcome": "Welcome! I'm excited to host you and hope you enjoy Breckenridge! If for any reason your stay isn't 5 stars or you need help, please reach out to me on Airbnb, or by text/WhatsApp. Make sure to check out this guide for recommendations!"
+    },
+    "tokens": {
+      "WIFI_NETWORK": "peak9inn4516",
+      "WIFI_PASSWORD": "peak9inn4516",
+      "PARKING_RATE": "$45",
+      "ADDRESS_BLOCK": "The Village at Breckenridge, Peak 9 Inn<br>535 S Park Ave, Unit 4516<br>Breckenridge, CO 80424",
+      "AIRBNB_URL": "",
+      "VRBO_URL": "",
+      "DIRECT_BOOK_URL": "",
+      "CLEANING_FEE": "$110",
+      "PARKING_FEE_NOTE": " + parking if needed"
+    },
+    "overrides": {
+      "checkin": {
+        "sections": [
+          {
+            "heading": "Times",
+            "body": "<p><strong>Check-in:</strong> 4:00 PM &nbsp;•&nbsp; <strong>Check-out:</strong> 10:00 AM</p><p>Room access (front door, garage and elevator) is entirely via the digital room key app — details are in your check-in message. Early/late garage access is sometimes available if the current guest isn't using the spot — just ask. The Health Club is always accessible 8am–5pm regardless.</p>"
+          },
+          {
+            "heading": "Digital Key App",
+            "body": "<p>Room, elevator, health club, parking and any amenity reservations are all accessed through the digital key app — your login details are sent through Airbnb (or your booking platform) the day of check-in. It's worth downloading the app in advance, but wait to log in until your arrival day.</p><ul><li>Bluetooth must be turned on — it's a Bluetooth key.</li><li>Tap the key on your screen so it turns blue, then hold the back of your phone fully against the lock to open it.</li><li>The app's share button lets you give key access to anyone else in your group.</li></ul>"
+          },
+          {
+            "heading": "Getting to Your Unit",
+            "body": "<p>Look for the large building with the clock tower and an archway labeled “The Village.” Pull into the circular drive and take your second right into the garage. Drive toward the stop sign / pay-to-park machine, turn left, and tap your digital parking pass on the sensor to open the gate. The Peak 9 Inn (Green Lot) is closest to the elevator, but you can park in any section once you're inside the garage. If it's full, any handicap spot works too. Luggage carts are in the lobby.</p><p>From the lobby, take the elevator (tap your key on the sensor), choose the 4th floor, then turn right to Unit 4415.</p>"
+          },
+          {
+            "heading": "Before You Leave",
+            "body": "<p>If you're able, please:</p><ul><li>Load and start the dishwasher</li><li>Take the garbage out</li><li>Turn off the lights and heat</li><li>Text your host that you've departed</li></ul>"
+          },
+          {
+            "heading": "Address",
+            "body": "<p>{{ADDRESS_BLOCK}}</p>"
+          }
+        ]
+      },
+      "wifi": {
+        "sections": [
+          {
+            "heading": "Getting Connected",
+            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
+          },
+          {
+            "heading": "Smart TV &amp; Streaming",
+            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
+          },
+          {
+            "heading": "Amazon Alexa Smart Speaker",
+            "body": "<p>There’s an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
           }
         ]
       }
