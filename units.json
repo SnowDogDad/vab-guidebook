@@ -138,9 +138,9 @@
       "WIFI_PASSWORD": "peak9inn4415",
       "PARKING_RATE": "$45",
       "ADDRESS_BLOCK": "The Village at Breckenridge, Peak 9 Inn<br>535 S Park Ave, Unit 4415<br>Breckenridge, CO 80424",
-      "AIRBNB_URL": "",
+      "AIRBNB_URL": "https://airbnb.com/h/studio4415",
       "VRBO_URL": "",
-      "DIRECT_BOOK_URL": "",
+      "DIRECT_BOOK_URL": "https://airbnb.com/h/studio4415",
       "CLEANING_FEE": "$110",
       "PARKING_FEE_NOTE": " + parking if needed",
       "SMART_DEVICE_HEADING": "Amazon Alexa Smart Speaker",
@@ -156,7 +156,7 @@
           {
             "after": "digital-key-app",
             "heading": "Getting to Your Unit",
-            "body": "<p>Look for the large building with the clock tower and an archway labeled “The Village.” Pull into the circular drive and take your second right into the garage. Drive toward the stop sign / pay-to-park machine, turn left, and tap your digital parking pass on the sensor to open the gate. The Peak 9 Inn (Green Lot) is closest to the elevator, but you can park in any section once you're inside the garage. If it's full, any handicap spot works too. Luggage carts are in the lobby.</p><p>From the lobby, take the elevator (tap your key on the sensor), choose the 4th floor, then turn right to Unit {{UNIT_NUMBER}}.</p><p>Early/late garage access is sometimes available if the current guest isn't using the spot — just ask. The Health Club is always accessible 8am–5pm regardless.</p>"
+            "body": "<p>Look for the large building with the clock tower and an archway labeled “The Village.” Pull into the circular drive and take your second right into the garage. Drive toward the stop sign / pay-to-park machine, turn left, and tap your digital parking pass on the sensor to open the gate. The Peak 9 Inn (Green Lot) is closest to the elevator, but you can park in any section once you're inside the garage. If it's full, any handicap spot works too. Luggage carts are in the lobby.</p><p>From the lobby, take the elevator (tap your key on the sensor), choose the 4th floor, then turn right to Unit {{UNIT_NUMBER}}.</p><p>Early/late garage access is sometimes available if the current guest isn't using the spot — just ask. The Leisure Center / Health Club is always accessible starting at 8am on the day of your reservation.</p>"
           }
         ]
       }

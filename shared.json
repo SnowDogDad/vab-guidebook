@@ -19,7 +19,7 @@
         {
           "id": "before-you-leave",
           "heading": "Before You Leave",
-          "body": "<p>If you're able, please:</p><ul><li>Load and start the dishwasher</li><li>Take the garbage out</li><li>Turn off the lights and heat</li><li>Text {{CHECK_OUT_TEXT}} that you've departed</li></ul>"
+          "body": "<p>If you're able, please:</p><ul><li>Load and start the dishwasher</li><li>Take the garbage out</li><li>Turn off the lights, air conditioning, and heat</li><li>Text {{CHECK_OUT_TEXT}} to let us know that you've departed</li></ul>"
         },
         {
           "id": "address",
@@ -56,11 +56,11 @@
       "sections": [
         {
           "heading": "Reserved Parking",
-          "body": "<p><strong>{{PARKING_RATE}}/night</strong>, year-round, starting at check-in and ending at check-out. The garage often fills each night and needs to be booked in advance. Individual spaces are not reserved; you can park anywhere in the garage. If you arrive and all spots are taken, you may park in an EV charging or handicapped space. <strong>Garage entry height: 7 ft 6 in.</strong></p><p>If you’re skiing on your check-out day, you can move your car to the daytime paid skier parking in the F-lot (across from the building) or the free daytime skier parking at the Ice Rink lot.</p>"
+          "body": "<p><strong>{{PARKING_RATE}}/night</strong>, year-round, starting at check-in and ending at check-out. Individual spaces are not reserved; you can park anywhere in the garage. If you arrive and all spots are taken, you may park in an EV charging or handicapped space. <strong>Garage entry height: 7 ft 6 in.</strong></p><p>If you’re skiing on your check-out day, you can move your car to the daytime paid skier parking in the F-lot (across from the building) or the free daytime skier parking at the Ice Rink lot.</p>"
         },
         {
           "heading": "If the Garage Is Full",
-          "body": "<p>The front lot has 30 minutes free — use the pay machine and add your license plate. Great for unloading when you arrive.</p><p><strong>Ice Rink Parking Lot</strong> (189 Boreas Pass Rd) — a small lot 5 blocks away that does fill up. $20 weekdays / $35 weekends.</p>"
+          "body": "<p>The garage often fills each night and needs to be booked in advance. The front lot has 30 minutes free — use the pay machine and add your license plate. Great for unloading when you arrive.</p><p><strong>Ice Rink Parking Lot</strong> (189 Boreas Pass Rd) — a small lot 5 blocks away that does fill up. $20 weekdays / $35 weekends.</p>"
         },
         {
           "heading": "Electric Vehicle Charging",
@@ -80,11 +80,11 @@
       "sections": [
         {
           "heading": "Kitchen",
-          "body": "<p>Full kitchen with microwave, oven, stove, refrigerator, dishwasher, crockpot, toaster and coffee machine, plus all the pots, pans and utensils you'll need. Basic spices, oils and condiments are stocked — feel free to leave extra food behind for housekeeping or the community.</p>"
+          "body": "<p>Full kitchen with microwave, oven, stove, refrigerator, dishwasher, toaster and coffee machine, plus all the pots, pans and utensils you'll need. Basic spices, oils and condiments are stocked — feel free to leave extra food behind for housekeeping or the community.</p>"
         },
         {
           "heading": "Coffee &amp; Tea",
-          "body": "<p>Drip coffee machine, filters, a coffee grinder and an electric kettle, plus ground coffee, an assortment of teas, powdered creamer, syrups and sugars.</p>"
+          "body": "<p>Drip coffee machine, filters, a coffee grinder and an electric kettle, plus ground coffee, an assortment of teas, powdered creamer, syrups, and sugars.</p>"
         },
         {
           "heading": "Bathroom",
@@ -92,11 +92,11 @@
         },
         {
           "heading": "Heating &amp; Cooling",
-          "body": "<p>There's no A/C in Breckenridge — the unit relies on a baseboard heater (control in the kitchen) plus opening windows and closing blinds to regulate temperature. A ceiling fan, portable fan and hot/cold mist humidifiers are in the closet.</p> <p>Humidifiers live in the closet &mdash; please leave them unassembled on the counter to air dry after your stay.</p>"
+          "body": "<p>There's no central A/C in Breckenridge — the unit relies on a baseboard heater (control in the kitchen) plus opening windows and closing blinds to regulate temperature. A ceiling fan, portable fan and hot/cold mist humidifiers are in the closet.</p> <p>Humidifiers live in the closet &mdash; please leave them unassembled on the counter to air dry after your stay.</p>"
         },
         {
           "heading": "Laundry",
-          "body": "<p>Washers and dryers are on your floor, across from the elevator. Detergent is usually kept in the closet or under the sink. Use the <strong>PayRange</strong> app or scan the QR code on the machine.</p>"
+          "body": "<p>Washers and dryers are on your floor, across from the elevator. Detergent is usually kept in the closet or under the bathroom sink. Use the <strong>PayRange</strong> app or scan the QR code on the machine.</p>"
         },
         {
           "heading": "Sleeper Sofa",
