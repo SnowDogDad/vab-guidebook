@@ -88,12 +88,35 @@ function buildCategories(shared, unit) {
 
   return shared.categories.map(cat => {
     const ov = overrides[cat.id];
+
+    let sections = cat.sections || [];
+    if (ov && ov.sections) {
+      /* Full replacement: this unit's sections completely replace the
+         shared category's sections. Use this when a unit's version of a
+         category has little or nothing in common with the shared one. */
+      sections = ov.sections;
+    } else if (ov && ov.extraSections) {
+      /* Additive: start from the shared sections (so Times, Digital Key
+         App, etc. stay in sync for every unit) and splice in extra,
+         unit-only sections. Each extra section can set "after" to a
+         shared section's "id" to control where it lands; omitted means
+         it's appended at the end. */
+      sections = sections.slice();
+      ov.extraSections.forEach(extra => {
+        const afterIdx = extra.after
+          ? sections.findIndex(s => s.id === extra.after)
+          : -1;
+        const insertAt = afterIdx === -1 ? sections.length : afterIdx + 1;
+        sections.splice(insertAt, 0, { heading: extra.heading, body: extra.body });
+      });
+    }
+
     const merged = {
       id: cat.id,
       icon: cat.icon,
       title: (ov && ov.title) || cat.title,
       subtitle: (ov && ov.subtitle) || cat.subtitle,
-      sections: (ov && ov.sections) || cat.sections
+      sections: sections
     };
     merged.title = fillTokens(merged.title, tokens);
     merged.subtitle = fillTokens(merged.subtitle, tokens);

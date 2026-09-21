@@ -7,18 +7,22 @@
       "icon": "door",
       "sections": [
         {
+          "id": "times",
           "heading": "Times",
-          "body": "<p><strong>Check-in:</strong> 4:00 PM &nbsp;•&nbsp; <strong>Check-out:</strong> 10:00 AM</p><p>Room access (front door, garage and elevator) is entirely via the digital room key app — details are in your check-in message.</p>"
+          "body": "<p><strong>Check-in:</strong> {{CHECK_IN_TIME}} &nbsp;•&nbsp; <strong>Check-out:</strong> {{CHECK_OUT_TIME}}</p><p>Room access (front door, garage and elevator) is entirely via the digital room key app — details are in your check-in message.</p>"
         },
         {
+          "id": "digital-key-app",
           "heading": "Digital Key App",
           "body": "<p>Room, elevator, health club, parking and any amenity reservations are all accessed through the digital key app &mdash; your login details are sent through Airbnb (or your booking platform) the day of check-in. It's worth downloading the app in advance, but wait to log in until your arrival day.</p><ul><li>Bluetooth must be turned on &mdash; it's a Bluetooth key.</li><li>Tap the key on your screen so it turns blue, then hold the back of your phone fully against the lock to open it.</li><li>The app's share button lets you give key access to anyone else in your group.</li></ul>"
         },
         {
+          "id": "before-you-leave",
           "heading": "Before You Leave",
-          "body": "<p>If you're able, please:</p><ul><li>Load and start the dishwasher</li><li>Take the garbage out</li><li>Turn off the lights and heat</li><li>Text your host that you've departed</li></ul>"
+          "body": "<p>If you're able, please:</p><ul><li>Load and start the dishwasher</li><li>Take the garbage out</li><li>Turn off the lights and heat</li><li>Text {{CHECK_OUT_TEXT}} that you've departed</li></ul>"
         },
         {
+          "id": "address",
           "heading": "Address",
           "body": "<p>{{ADDRESS_BLOCK}}</p>"
         }
