@@ -97,10 +97,25 @@ function buildCategories(shared, unit) {
     };
     merged.title = fillTokens(merged.title, tokens);
     merged.subtitle = fillTokens(merged.subtitle, tokens);
-    merged.sections = (merged.sections || []).map(sec => ({
-      heading: fillTokens(sec.heading, tokens),
-      body: fillTokens(sec.body, tokens)
-    }));
+    merged.sections = (merged.sections || [])
+      .filter(sec => {
+        /* A section whose entire body is nothing but a single {{TOKEN}}
+           placeholder is "optional": if that token is blank or missing
+           for this unit, the section is left out entirely instead of
+           falling back to the usual "ask your host" placeholder. This
+           lets a section (like a smart-speaker blurb) apply to some
+           units and not others, driven purely by units.json. */
+        const bare = typeof sec.body === 'string' && sec.body.trim().match(/^\{\{(\w+)\}\}$/);
+        if (bare) {
+          const val = tokens[bare[1]];
+          if (val === undefined || val === null || val === '') return false;
+        }
+        return true;
+      })
+      .map(sec => ({
+        heading: fillTokens(sec.heading, tokens),
+        body: fillTokens(sec.body, tokens)
+      }));
     return merged;
   });
 }

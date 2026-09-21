@@ -16,25 +16,9 @@
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$222",
-      "PARKING_FEE_NOTE": " + $45/night parking if needed"
-    },
-    "overrides": {
-      "wifi": {
-        "sections": [
-          {
-            "heading": "Getting Connected",
-            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
-          },
-          {
-            "heading": "Smart TV &amp; Streaming",
-            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
-          },
-          {
-            "heading": "Amazon Alexa Smart Speaker",
-            "body": "<p>There’s an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
-          }
-        ]
-      }
+      "PARKING_FEE_NOTE": " + $45/night parking if needed",
+      "SMART_DEVICE_HEADING": "Amazon Alexa Smart Speaker",
+      "SMART_DEVICE_TEXT": "<p>There is an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
     }
   },
   "4604": {
@@ -53,7 +37,9 @@
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "https://breckenridge.staydirectly.com",
       "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " + $45/night parking if needed"
+      "PARKING_FEE_NOTE": " + $45/night parking if needed",
+      "SMART_DEVICE_HEADING": "Google Home Smart Speaker",
+      "SMART_DEVICE_TEXT": "<p>There's a Google Home speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Hey Google” for music, alarms, weather and other info — no need to unplug it.</p>"
     }
   },
   "4325": {
@@ -72,21 +58,9 @@
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " + $35/night parking if needed"
-    },
-    "overrides": {
-      "wifi": {
-        "sections": [
-          {
-            "heading": "Getting Connected",
-            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
-          },
-          {
-            "heading": "Smart TV &amp; Streaming",
-            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
-          }
-        ]
-      }
+      "PARKING_FEE_NOTE": " + $35/night parking if needed",
+      "SMART_DEVICE_HEADING": "",
+      "SMART_DEVICE_TEXT": ""
     }
   },
   "4212": {
@@ -105,59 +79,9 @@
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " + $35/night parking if needed"
-    },
-    "overrides": {
-      "wifi": {
-        "sections": [
-          {
-            "heading": "Getting Connected",
-            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
-          },
-          {
-            "heading": "Smart TV &amp; Streaming",
-            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
-          }
-        ]
-      }
-    }
-  },
-  "steiermark-108": {
-    "property": {
-      "name": "Der Steiermark 108",
-      "subtitle": "Unit 108",
-      "heroImage": "images/steiermark-108-hero.jpg",
-      "welcome": "Thanks for choosing my condo for your vacation in Breckenridge! Use this guide to help save you time and have a more comfortable stay. I hope you enjoy your time here and make my home your own. If you need anything, please don't hesitate to reach out."
-    },
-    "tokens": {
-      "WIFI_NETWORK": "",
-      "WIFI_PASSWORD": "",
-      "ADDRESS_BLOCK": "Der Steiermark, Unit 108<br>Breckenridge, CO 80424",
-      "AIRBNB_URL": "",
-      "VRBO_URL": "",
-      "DIRECT_BOOK_URL": "https://breckenridge.staydirectly.com",
-      "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " (parking is included free of charge)"
-    },
-    "overrides": {
-      "parking": {
-        "subtitle": "Free parking for this unit",
-        "sections": [
-          {
-            "heading": "Parking",
-            "body": "<p>Parking is included free of charge with this unit. TODO: add exactly where to park and how (assigned spot, garage access code, guest lot, etc.).</p>"
-          }
-        ]
-      },
-      "building-amenities": {
-        "subtitle": "TODO: confirm what this building offers",
-        "sections": [
-          {
-            "heading": "TODO",
-            "body": "<p>Der Steiermark's amenities and directions differ from the Village at Breckenridge — replace this section with the pool/hot tub/gym info and walking directions for this building.</p>"
-          }
-        ]
-      }
+      "PARKING_FEE_NOTE": " + $35/night parking if needed",
+      "SMART_DEVICE_HEADING": "",
+      "SMART_DEVICE_TEXT": ""
     }
   },
   "template-copy-me": {
@@ -196,7 +120,9 @@
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " + parking if needed"
+      "PARKING_FEE_NOTE": " + parking if needed",
+      "SMART_DEVICE_HEADING": "Amazon Alexa Smart Speaker",
+      "SMART_DEVICE_TEXT": "<p>There is an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
     },
     "overrides": {
       "checkin": {
@@ -220,22 +146,6 @@
           {
             "heading": "Address",
             "body": "<p>{{ADDRESS_BLOCK}}</p>"
-          }
-        ]
-      },
-      "wifi": {
-        "sections": [
-          {
-            "heading": "Getting Connected",
-            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
-          },
-          {
-            "heading": "Smart TV &amp; Streaming",
-            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
-          },
-          {
-            "heading": "Amazon Alexa Smart Speaker",
-            "body": "<p>There’s an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
           }
         ]
       }
@@ -257,7 +167,9 @@
       "VRBO_URL": "",
       "DIRECT_BOOK_URL": "",
       "CLEANING_FEE": "$110",
-      "PARKING_FEE_NOTE": " + parking if needed"
+      "PARKING_FEE_NOTE": " + parking if needed",
+      "SMART_DEVICE_HEADING": "Amazon Alexa Smart Speaker",
+      "SMART_DEVICE_TEXT": "<p>There is an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
     },
     "overrides": {
       "checkin": {
@@ -281,22 +193,6 @@
           {
             "heading": "Address",
             "body": "<p>{{ADDRESS_BLOCK}}</p>"
-          }
-        ]
-      },
-      "wifi": {
-        "sections": [
-          {
-            "heading": "Getting Connected",
-            "body": "<p>High-speed WiFi is included at no extra charge.</p><p><strong>Network:</strong> {{WIFI_NETWORK}}<br><strong>Password:</strong> {{WIFI_PASSWORD}}</p><p>There’s no access to the modem for a hardwired connection.</p> <p>If you are having WiFi problems, try connecting to a neighboring WiFi - the name and password will be similar to this unit.</p>"
-          },
-          {
-            "heading": "Smart TV &amp; Streaming",
-            "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
-          },
-          {
-            "heading": "Amazon Alexa Smart Speaker",
-            "body": "<p>There’s an Amazon Alexa speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Alexa” for music, alarms, weather and other info — no need to unplug it.</p>"
           }
         ]
       }

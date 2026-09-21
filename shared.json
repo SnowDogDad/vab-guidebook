@@ -39,8 +39,8 @@
           "body": "<p>The smart TV has full extended cable plus every major streaming app pre-installed &mdash; just sign into your own accounts. The TV is flush-mounted and the cable box isn’t accessible for outside devices.</p><p>If you turn the TV on with the Xfinity remote, you will have access to over 150 Xfinity Cable TV channels. The Xfinity system also allows you to download apps such as Netflix, Prime, Hulu, etc. and login with your own account.</p><p>The small remote’s source button (top right) switches between Cable TV and the Smart TV apps. Use the larger Xfinity remote for cable, and its microphone button to search or change channels by voice.</p><p>We recommend you turn the TV on and off with the Xfinity remote.</p>"
         },
         {
-          "heading": "Google Home Smart Speaker",
-          "body": "<p>There's a Google Home speaker in the condo, set to maximum privacy (nothing is collected, saved, or listened to). Say “Hey Google” for music, alarms, weather and other info — no need to unplug it.</p>"
+          "heading": "{{SMART_DEVICE_HEADING}}",
+          "body": "{{SMART_DEVICE_TEXT}}"
         }
       ]
     },
